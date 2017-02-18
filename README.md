@@ -28,9 +28,9 @@ IF EXIST "%SystemRoot%\syswow64\reg.exe" (
 ```
 
 ## 操作確認
-1.[サブウィンドウ](http://www.sparxsystems.jp/help/13.0/custom_docked_window.htm)を表示
- アドイン・拡張｜アドイン｜ウィンドウ
+1.[サブウィンドウ](http://www.sparxsystems.jp/help/13.0/custom_docked_window.htm)を表示  
+ アドイン・拡張｜アドイン｜ウィンドウ  
 ![実行例](pic/AddminWindow.png)
 
-2.保存する前に変更点を確認できます。
+2.保存する前に変更点を確認できます。  
 ![比較画面](pic/CompareWindow.png)
