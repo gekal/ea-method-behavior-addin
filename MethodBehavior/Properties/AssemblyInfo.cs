@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("振舞い編集アドイン")]
 [assembly: AssemblyDescription("振舞いの編集を補助するアドイン")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("https://github.com/gekale")]
+[assembly: AssemblyCompany("https://github.com/protosoft")]
 [assembly: AssemblyProduct("振舞い編集アドイン")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // すべての値を指定するか、下のように '*' を使ってビルドおよびリビジョン番号を 
 // 既定値にすることができます:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]
